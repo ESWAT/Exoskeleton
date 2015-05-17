@@ -1,4 +1,6 @@
-# [Skeleton](http://getskeleton.com)
+# [Exoskeleton](http://getskeleton.com)
+Exoskeleton fork of the Skeleton boilerplate using [SUIT naming conventions](https://github.com/suitcss/suit/blob/master/doc/naming-conventions.md).
+
 Skeleton is a simple, responsive boilerplate to kickstart any responsive project.
 
 Check out <http://getskeleton.com> for documentation and details.
